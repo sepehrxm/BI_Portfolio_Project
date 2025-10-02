@@ -18,9 +18,10 @@ The analysis is based on the 2025 Stack Overflow Developer Survey, an annual sur
 ## Dashboard Link & Preview
 🔗 [Power BI Dashboard](https://tinyurl.com/n79978rw)
 
-<img src="./image/first_page.png.png" alt="first" width="50%">
-<img src="./image/second_page.png.png" alt="second" width="50%">
+<img src="./image/first_page.png" alt="first" width="50%">
+<img src="./image/second_page.png" alt="second" width="50%">
 
 ## Technical details
 - **Tool:** Power BI
 - **Dataset:** 2025 Stack Overflow Developer Survey
+
