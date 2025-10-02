@@ -1,7 +1,7 @@
 # Power BI Dashboard: 2025 Stack Overflow Developer Survey Analysis
 
 ## Overview
-I developed a fully interactive Power BI dashboard leveraging the 2025 Stack Overflow Developer Survey. The dashboard provides a deep dive into data-focused careers, enabling exploration of skills, tools, demographics, and career trends within the developer community.
+I developed a fully interactive Power BI dashboard leveraging the 2025 Stack Overflow Developer Survey. The dashboard provides a deep dive into data-focused careers, enabling exploration of learning paths, tools, demographics, and career trends within the developer community.
 
 ## Data Source
 The analysis is based on the 2025 Stack Overflow Developer Survey, an annual survey conducted by Stack Overflow that captures insights from thousands of developers worldwide.
@@ -24,4 +24,5 @@ The analysis is based on the 2025 Stack Overflow Developer Survey, an annual sur
 ## Technical details
 - **Tool:** Power BI
 - **Dataset:** 2025 Stack Overflow Developer Survey
+
 
